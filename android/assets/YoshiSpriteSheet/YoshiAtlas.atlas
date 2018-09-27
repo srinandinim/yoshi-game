@@ -1,0 +1,132 @@
+
+YoshiAtlas.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+yoshi1
+  rotate: false
+  xy: 2, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi10
+  rotate: false
+  xy: 470, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi11
+  rotate: false
+  xy: 522, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi12
+  rotate: false
+  xy: 574, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi13
+  rotate: false
+  xy: 626, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi14
+  rotate: false
+  xy: 678, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi15
+  rotate: false
+  xy: 730, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi16
+  rotate: false
+  xy: 782, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi17
+  rotate: false
+  xy: 834, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi18
+  rotate: false
+  xy: 886, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi2
+  rotate: false
+  xy: 54, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi3
+  rotate: false
+  xy: 106, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi4
+  rotate: false
+  xy: 158, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi5
+  rotate: false
+  xy: 210, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi6
+  rotate: false
+  xy: 262, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi7
+  rotate: false
+  xy: 314, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi8
+  rotate: false
+  xy: 366, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yoshi9
+  rotate: false
+  xy: 418, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

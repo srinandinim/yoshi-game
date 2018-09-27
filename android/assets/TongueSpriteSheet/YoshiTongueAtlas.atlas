@@ -1,0 +1,104 @@
+
+YoshiTongueAtlas.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+yoshi1
+  rotate: false
+  xy: 2, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi10
+  rotate: false
+  xy: 410, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi11
+  rotate: false
+  xy: 512, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi12
+  rotate: false
+  xy: 512, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi13
+  rotate: false
+  xy: 614, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi14
+  rotate: false
+  xy: 614, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi2
+  rotate: false
+  xy: 2, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi3
+  rotate: false
+  xy: 104, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi4
+  rotate: false
+  xy: 104, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi5
+  rotate: false
+  xy: 206, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi6
+  rotate: false
+  xy: 206, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi7
+  rotate: false
+  xy: 308, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi8
+  rotate: false
+  xy: 308, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yoshi9
+  rotate: false
+  xy: 410, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
